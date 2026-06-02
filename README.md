@@ -9,4 +9,4 @@
 Baixe e executar a imagem com comando abaixo:
 
 ```bash
-docker run seu-usuario-do-dockerhub/fullcycle:latest
+docker run murilooliveirati/fullcycle:latest
